@@ -1,0 +1,282 @@
+[
+ {
+  "id": "R1",
+  "file": "signs/r1.svg",
+  "category": "reglamentacion",
+  "name": {
+   "es": "Ceda el paso",
+   "en": "Give way"
+  },
+  "commons_file": "File:Spain traffic signal r1.svg",
+  "commons_url": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_r1.svg",
+  "license": "Public domain",
+  "author": "Unknown authorUnknown author",
+  "rgc_ref": "RD 1428/2003, Anexo I / arts. 149-159"
+ },
+ {
+  "id": "R2",
+  "file": "signs/r2.svg",
+  "category": "reglamentacion",
+  "name": {
+   "es": "Detención obligatoria (STOP)",
+   "en": "Stop"
+  },
+  "commons_file": "File:Spain traffic signal r2, 2023 set.svg",
+  "commons_url": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_r2,_2023_set.svg",
+  "license": "Public domain",
+  "author": "Ministerio de Transportes, Movilidad y Agenda Urbana",
+  "rgc_ref": "RD 1428/2003, Anexo I / arts. 149-159"
+ },
+ {
+  "id": "R100",
+  "file": "signs/r100.svg",
+  "category": "reglamentacion",
+  "name": {
+   "es": "Circulación prohibida",
+   "en": "No vehicles"
+  },
+  "commons_file": "File:Spain traffic signal r100.svg",
+  "commons_url": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_r100.svg",
+  "license": "Public domain",
+  "author": "",
+  "rgc_ref": "RD 1428/2003, Anexo I / arts. 149-159"
+ },
+ {
+  "id": "R101",
+  "file": "signs/r101.svg",
+  "category": "reglamentacion",
+  "name": {
+   "es": "Entrada prohibida",
+   "en": "No entry"
+  },
+  "commons_file": "File:Spain traffic signal r101.svg",
+  "commons_url": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_r101.svg",
+  "license": "Public domain",
+  "author": "Benedicto16",
+  "rgc_ref": "RD 1428/2003, Anexo I / arts. 149-159"
+ },
+ {
+  "id": "R301",
+  "file": "signs/r301.svg",
+  "category": "reglamentacion",
+  "name": {
+   "es": "Velocidad máxima (100)",
+   "en": "Maximum speed (100)"
+  },
+  "commons_file": "File:Spain traffic signal r301-100.svg",
+  "commons_url": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_r301-100.svg",
+  "license": "Public domain",
+  "author": "Majafego",
+  "rgc_ref": "RD 1428/2003, Anexo I / arts. 149-159"
+ },
+ {
+  "id": "R302",
+  "file": "signs/r302.svg",
+  "category": "reglamentacion",
+  "name": {
+   "es": "Giro a la derecha prohibido",
+   "en": "No right turn"
+  },
+  "commons_file": "File:Spain traffic signal r302.svg",
+  "commons_url": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_r302.svg",
+  "license": "Public domain",
+  "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+  "rgc_ref": "RD 1428/2003, Anexo I / arts. 149-159"
+ },
+ {
+  "id": "R303",
+  "file": "signs/r303.svg",
+  "category": "reglamentacion",
+  "name": {
+   "es": "Giro a la izquierda prohibido",
+   "en": "No left turn"
+  },
+  "commons_file": "File:Spain traffic signal r303.svg",
+  "commons_url": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_r303.svg",
+  "license": "Public domain",
+  "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+  "rgc_ref": "RD 1428/2003, Anexo I / arts. 149-159"
+ },
+ {
+  "id": "R305",
+  "file": "signs/r305.svg",
+  "category": "reglamentacion",
+  "name": {
+   "es": "Adelantamiento prohibido",
+   "en": "No overtaking"
+  },
+  "commons_file": "File:Spain traffic signal r305.svg",
+  "commons_url": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_r305.svg",
+  "license": "Public domain",
+  "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+  "rgc_ref": "RD 1428/2003, Anexo I / arts. 149-159"
+ },
+ {
+  "id": "R307",
+  "file": "signs/r307.svg",
+  "category": "reglamentacion",
+  "name": {
+   "es": "Parada y estacionamiento prohibidos",
+   "en": "No stopping or parking"
+  },
+  "commons_file": "File:Spain traffic signal r307.svg",
+  "commons_url": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_r307.svg",
+  "license": "Public domain",
+  "author": "The original uploader was Benedicto16 at  Wikimedia Commons.",
+  "rgc_ref": "RD 1428/2003, Anexo I / arts. 149-159"
+ },
+ {
+  "id": "R308",
+  "file": "signs/r308.svg",
+  "category": "reglamentacion",
+  "name": {
+   "es": "Estacionamiento prohibido",
+   "en": "No parking"
+  },
+  "commons_file": "File:Spain traffic signal r308.svg",
+  "commons_url": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_r308.svg",
+  "license": "Public domain",
+  "author": "Gigillo83",
+  "rgc_ref": "RD 1428/2003, Anexo I / arts. 149-159"
+ },
+ {
+  "id": "P1",
+  "file": "signs/p1.svg",
+  "category": "peligro",
+  "name": {
+   "es": "Intersección con prioridad",
+   "en": "Junction with priority"
+  },
+  "commons_file": "File:Spain traffic sign p1.svg",
+  "commons_url": "https://commons.wikimedia.org/wiki/File:Spain_traffic_sign_p1.svg",
+  "license": "Public domain",
+  "author": "",
+  "rgc_ref": "RD 1428/2003, Anexo I / arts. 149-159"
+ },
+ {
+  "id": "P3",
+  "file": "signs/p3.svg",
+  "category": "peligro",
+  "name": {
+   "es": "Semáforos",
+   "en": "Traffic lights"
+  },
+  "commons_file": "File:Spain traffic signal p3.svg",
+  "commons_url": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_p3.svg",
+  "license": "Public domain",
+  "author": "Benedicto16",
+  "rgc_ref": "RD 1428/2003, Anexo I / arts. 149-159"
+ },
+ {
+  "id": "P4",
+  "file": "signs/p4.svg",
+  "category": "peligro",
+  "name": {
+   "es": "Intersección con circulación giratoria",
+   "en": "Roundabout ahead"
+  },
+  "commons_file": "File:Spain traffic signal p4.svg",
+  "commons_url": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_p4.svg",
+  "license": "Public domain",
+  "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+  "rgc_ref": "RD 1428/2003, Anexo I / arts. 149-159"
+ },
+ {
+  "id": "P13A",
+  "file": "signs/p13a.svg",
+  "category": "peligro",
+  "name": {
+   "es": "Curva peligrosa hacia la derecha",
+   "en": "Dangerous bend to the right"
+  },
+  "commons_file": "File:Spain traffic signal p13a.svg",
+  "commons_url": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_p13a.svg",
+  "license": "Public domain",
+  "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+  "rgc_ref": "RD 1428/2003, Anexo I / arts. 149-159"
+ },
+ {
+  "id": "P15A",
+  "file": "signs/p15a.svg",
+  "category": "peligro",
+  "name": {
+   "es": "Resalto",
+   "en": "Road hump"
+  },
+  "commons_file": "File:Spain traffic signal p15a.svg",
+  "commons_url": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_p15a.svg",
+  "license": "Public domain",
+  "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+  "rgc_ref": "RD 1428/2003, Anexo I / arts. 149-159"
+ },
+ {
+  "id": "P20",
+  "file": "signs/p20.svg",
+  "category": "peligro",
+  "name": {
+   "es": "Peatones",
+   "en": "Pedestrians"
+  },
+  "commons_file": "File:Spain traffic signal P-20a.svg",
+  "commons_url": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_P-20a.svg",
+  "license": "Public domain",
+  "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+  "rgc_ref": "RD 1428/2003, Anexo I / arts. 149-159"
+ },
+ {
+  "id": "P21",
+  "file": "signs/p21.svg",
+  "category": "peligro",
+  "name": {
+   "es": "Niños",
+   "en": "Children"
+  },
+  "commons_file": "File:Spain traffic signal p21.svg",
+  "commons_url": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_p21.svg",
+  "license": "Public domain",
+  "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+  "rgc_ref": "RD 1428/2003, Anexo I / arts. 149-159"
+ },
+ {
+  "id": "S13",
+  "file": "signs/s13.svg",
+  "category": "indicacion",
+  "name": {
+   "es": "Situación de un paso para peatones",
+   "en": "Pedestrian crossing location"
+  },
+  "commons_file": "File:Spain traffic signal s13.svg",
+  "commons_url": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s13.svg",
+  "license": "Public domain",
+  "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+  "rgc_ref": "RD 1428/2003, Anexo I / arts. 149-159"
+ },
+ {
+  "id": "S15A",
+  "file": "signs/s15a.svg",
+  "category": "indicacion",
+  "name": {
+   "es": "Calzada sin salida",
+   "en": "Dead end"
+  },
+  "commons_file": "File:Spain traffic signal s15a.svg",
+  "commons_url": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s15a.svg",
+  "license": "Public domain",
+  "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+  "rgc_ref": "RD 1428/2003, Anexo I / arts. 149-159"
+ },
+ {
+  "id": "S28",
+  "file": "signs/s28.svg",
+  "category": "indicacion",
+  "name": {
+   "es": "Calle residencial",
+   "en": "Residential street"
+  },
+  "commons_file": "File:Spain traffic signal s28.svg",
+  "commons_url": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_s28.svg",
+  "license": "Public domain",
+  "author": "No machine-readable author provided. Benedicto16 assumed (based on copyright claims).",
+  "rgc_ref": "RD 1428/2003, Anexo I / arts. 149-159"
+ }
+]

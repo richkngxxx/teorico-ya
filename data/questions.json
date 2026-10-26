@@ -1,0 +1,920 @@
+[
+ {
+  "id": "q001",
+  "topic": "velocidad",
+  "question": "¿Cuál es la velocidad máxima genérica de un turismo en autopista o autovía?",
+  "options": [
+   "100 km/h",
+   "120 km/h",
+   "130 km/h"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "En autopistas y autovías el límite genérico para turismos y motocicletas es 120 km/h, salvo señalización distinta.",
+   "en": "On motorways and dual carriageways the general limit for cars and motorcycles is 120 km/h unless signed otherwise."
+  },
+  "article": "RGC art. 48",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q002",
+  "topic": "velocidad",
+  "question": "En una carretera convencional, ¿cuál es la velocidad máxima genérica de un turismo?",
+  "options": [
+   "90 km/h",
+   "100 km/h",
+   "80 km/h"
+  ],
+  "answer": 0,
+  "explanation": {
+   "es": "Desde 2019 el límite genérico para turismos en carreteras convencionales es 90 km/h; ya no existe el margen de +20 km/h para adelantar.",
+   "en": "Since 2019 the general limit for cars on conventional roads is 90 km/h; the old +20 km/h overtaking margin no longer exists."
+  },
+  "article": "RGC art. 48",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q003",
+  "topic": "velocidad",
+  "question": "Para adelantar en una carretera convencional limitada a 90 km/h, un turismo puede superar ese límite en 20 km/h.",
+  "options": [
+   "Sí, siempre que adelante a un vehículo lento",
+   "No, nunca puede superar el límite",
+   "Sí, pero solo de día"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "La reforma eliminó el margen de 20 km/h para adelantar. El límite se respeta también durante el adelantamiento.",
+   "en": "The reform removed the 20 km/h overtaking margin. The limit also applies while overtaking."
+  },
+  "article": "RGC art. 48",
+  "trap": true,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q004",
+  "topic": "velocidad",
+  "question": "En una vía urbana con un único carril por sentido, ¿cuál es el límite genérico?",
+  "options": [
+   "50 km/h",
+   "30 km/h",
+   "40 km/h"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "En vías urbanas de un único carril por sentido de circulación el límite genérico es 30 km/h.",
+   "en": "In urban roads with a single lane in each direction the general limit is 30 km/h."
+  },
+  "article": "RGC art. 50",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q005",
+  "topic": "velocidad",
+  "question": "En una vía urbana de plataforma única (calzada y acera al mismo nivel), el límite genérico es...",
+  "options": [
+   "20 km/h",
+   "30 km/h",
+   "10 km/h"
+  ],
+  "answer": 0,
+  "explanation": {
+   "es": "En las vías urbanas de plataforma única de calzada y acera el límite es 20 km/h.",
+   "en": "In urban single-surface streets (road and pavement at the same level) the limit is 20 km/h."
+  },
+  "article": "RGC art. 50",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q006",
+  "topic": "velocidad",
+  "question": "En una vía urbana con dos o más carriles por sentido, el límite genérico es...",
+  "options": [
+   "30 km/h",
+   "50 km/h",
+   "60 km/h"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Con dos o más carriles por sentido el límite urbano genérico sigue siendo 50 km/h.",
+   "en": "With two or more lanes per direction the general urban limit is still 50 km/h."
+  },
+  "article": "RGC art. 50",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q007",
+  "topic": "velocidad",
+  "question": "En autopista, ¿se puede circular a una velocidad muy baja sin causa justificada?",
+  "options": [
+   "Sí, si se usa el carril derecho",
+   "No, no se puede circular por debajo de la mitad de la velocidad máxima genérica",
+   "Sí, si se encienden las luces de emergencia"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Está prohibido circular a velocidad anormalmente reducida sin causa justificada; en autopistas y autovías el mínimo es la mitad de la velocidad genérica de la vía.",
+   "en": "Driving abnormally slowly without good reason is prohibited; on motorways the minimum is half the general speed limit of the road."
+  },
+  "article": "RGC art. 49",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q008",
+  "topic": "velocidad",
+  "question": "Si la señal indica 100 km/h pero hay niebla densa, usted debe...",
+  "options": [
+   "Circular a 100 km/h, que es lo señalizado",
+   "Adecuar la velocidad a las condiciones de visibilidad",
+   "Circular a la velocidad mínima de la vía"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "El límite señalizado es un máximo. El conductor debe adecuar la velocidad a la visibilidad, el estado de la vía y las circunstancias.",
+   "en": "The signed limit is a maximum. Drivers must adapt their speed to visibility, road condition and circumstances."
+  },
+  "article": "RGC art. 45",
+  "trap": true,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q009",
+  "topic": "alcohol",
+  "question": "¿Cuál es la tasa máxima de alcohol en aire espirado para un conductor general?",
+  "options": [
+   "0,25 mg/l",
+   "0,50 mg/l",
+   "0,15 mg/l"
+  ],
+  "answer": 0,
+  "explanation": {
+   "es": "Para conductores en general el límite es 0,5 g/l en sangre o 0,25 mg/l en aire espirado.",
+   "en": "For drivers in general the limit is 0.5 g/l in blood or 0.25 mg/l in exhaled air."
+  },
+  "article": "RGC art. 20",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q010",
+  "topic": "alcohol",
+  "question": "Un conductor novel (menos de dos años de permiso) tiene un límite de alcohol en aire espirado de...",
+  "options": [
+   "0,25 mg/l",
+   "0,15 mg/l",
+   "0,00 mg/l"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Los conductores con menos de dos años de permiso y los profesionales tienen un límite de 0,3 g/l en sangre o 0,15 mg/l en aire.",
+   "en": "Drivers with under two years' licence and professional drivers have a limit of 0.3 g/l blood or 0.15 mg/l air."
+  },
+  "article": "RGC art. 20",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q011",
+  "topic": "alcohol",
+  "question": "Tomar café o ducharse con agua fría reduce la tasa de alcohol en sangre.",
+  "options": [
+   "Sí, la reduce bastante",
+   "No, solo el tiempo elimina el alcohol",
+   "Sí, si se toman varios cafés"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "El café o el agua fría no eliminan el alcohol; solo el paso del tiempo permite que el organismo lo metabolice.",
+   "en": "Coffee or cold water do not remove alcohol; only time lets the body metabolise it."
+  },
+  "article": "Manual del conductor (alcohol); RGC art. 20",
+  "trap": true,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q012",
+  "topic": "alcohol",
+  "question": "¿Está obligado un conductor a someterse a las pruebas de alcohol si se lo pide un agente?",
+  "options": [
+   "Solo si ha tenido un accidente",
+   "Sí, todos los conductores están obligados",
+   "No, es voluntario"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Todos los conductores están obligados a someterse a las pruebas de detección de alcohol cuando lo requiera un agente.",
+   "en": "All drivers must undergo alcohol tests when an officer requires it."
+  },
+  "article": "RGC art. 21",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q013",
+  "topic": "drogas",
+  "question": "Si un medicamento indica en su envase un pictograma de advertencia sobre la conducción, usted debe...",
+  "options": [
+   "Ignorarlo si se encuentra bien",
+   "Leer el prospecto y consultar si puede conducir",
+   "Tomarlo solo después de conducir"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Muchos medicamentos afectan la capacidad de conducción; el pictograma obliga a prestar atención y consultar al médico o farmacéutico.",
+   "en": "Many medicines impair driving; the pictogram means you must check the leaflet and ask a doctor or pharmacist."
+  },
+  "article": "RGC art. 27; Manual del conductor",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q014",
+  "topic": "prioridad",
+  "question": "En una intersección sin señalizar, ¿quién tiene preferencia?",
+  "options": [
+   "El vehículo que viene por la izquierda",
+   "El vehículo que viene por la derecha",
+   "El vehículo más grande"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "En intersecciones sin señalizar, el conductor debe ceder el paso a los vehículos que se aproximan por su derecha, salvo excepciones.",
+   "en": "At unsigned junctions, drivers must give way to vehicles approaching from their right, with some exceptions."
+  },
+  "article": "RGC art. 57",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q015",
+  "topic": "prioridad",
+  "question": "En una glorieta sin señalizar, ¿quién tiene preferencia?",
+  "options": [
+   "Los que van a entrar, porque vienen por la derecha",
+   "Los que ya circulan dentro de la glorieta",
+   "El vehículo más rápido"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Es una excepción a la regla de la derecha: los vehículos que circulan por la glorieta tienen preferencia sobre los que pretenden acceder.",
+   "en": "An exception to the right-hand rule: vehicles already on the roundabout have priority over those entering."
+  },
+  "article": "RGC art. 57.1.c",
+  "trap": true,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q016",
+  "topic": "prioridad",
+  "question": "En una intersección sin señalizar entre una vía pavimentada y un camino de tierra, ¿quién tiene preferencia?",
+  "options": [
+   "El que viene por la derecha, siempre",
+   "El que circula por la vía pavimentada",
+   "El que llega primero"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Los vehículos que circulen por una vía pavimentada tienen preferencia sobre los que procedan de una no pavimentada.",
+   "en": "Vehicles on a paved road have priority over those coming from an unpaved one."
+  },
+  "article": "RGC art. 57.1.a",
+  "trap": true,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q017",
+  "topic": "prioridad",
+  "question": "Un agente le indica que pase pero el semáforo está en rojo. ¿Qué hace?",
+  "options": [
+   "Espero al verde",
+   "Obedezco al agente",
+   "Toco el claxon para avisar"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Las indicaciones de los agentes prevalecen sobre semáforos, señales y marcas viales.",
+   "en": "Officers' instructions prevail over traffic lights, signs and road markings."
+  },
+  "article": "RGC art. 133",
+  "trap": true,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q018",
+  "topic": "prioridad",
+  "question": "¿Qué prevalece si una señal vertical contradice una marca vial?",
+  "options": [
+   "La marca vial",
+   "La señal vertical",
+   "Ninguna, se elige libremente"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "El orden de prioridad es: agentes, señales circunstanciales y balizamiento, semáforos, señales verticales y, por último, marcas viales.",
+   "en": "The order is: officers, temporary signs, traffic lights, vertical signs and finally road markings."
+  },
+  "article": "RGC art. 133",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q019",
+  "topic": "prioridad",
+  "question": "Ante un vehículo de emergencia con señales luminosas y acústicas en servicio urgente, usted debe...",
+  "options": [
+   "Seguir igual si tiene preferencia",
+   "Facilitarle el paso apartándose de forma segura",
+   "Frenar en seco donde esté"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Los conductores deben facilitar el paso a los vehículos prioritarios en servicio urgente, apartándose normalmente a la derecha, sin crear peligro.",
+   "en": "Drivers must make way for priority vehicles on urgent duty, usually moving right, without creating danger."
+  },
+  "article": "RGC art. 69",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q020",
+  "topic": "prioridad",
+  "question": "Un vehículo prioritario solo con las luces azules encendidas y sin sirena, ¿está en servicio urgente?",
+  "options": [
+   "Sí, basta con las luces",
+   "No necesariamente; el servicio urgente se avisa con señales luminosas y acústicas",
+   "Solo si es de noche"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Con carácter general, el servicio urgente se advierte utilizando simultáneamente la señal luminosa y el aparato emisor de señales acústicas.",
+   "en": "As a rule, urgent duty is indicated by using the light signal and the acoustic device at the same time."
+  },
+  "article": "RGC art. 68",
+  "trap": true,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q021",
+  "topic": "señales",
+  "question": "La señal de STOP (R-2) obliga a...",
+  "options": [
+   "Reducir la velocidad y ceder el paso",
+   "Detenerse siempre ante la línea de detención y ceder el paso",
+   "Detenerse solo si viene alguien"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "La señal R-2 obliga a detenerse siempre, aunque no venga nadie, y a ceder el paso.",
+   "en": "Sign R-2 requires you to always stop, even if no one is coming, and give way."
+  },
+  "article": "RGC art. 151; art. 169",
+  "trap": true,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q022",
+  "topic": "señales",
+  "question": "¿Qué indica una luz amarilla fija en un semáforo?",
+  "options": [
+   "Acelerar para pasar antes del rojo",
+   "Detenerse, salvo que no se pueda hacer en condiciones de seguridad",
+   "Paso libre con precaución"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "La luz amarilla fija obliga a detenerse en las mismas condiciones que el rojo, salvo que no sea posible detenerse con seguridad.",
+   "en": "A steady amber light means stop as for red, unless you cannot stop safely."
+  },
+  "article": "RGC art. 146",
+  "trap": true,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q023",
+  "topic": "señales",
+  "question": "Una luz amarilla intermitente en un semáforo significa...",
+  "options": [
+   "Prohibido pasar",
+   "Precaución; se puede pasar extremando la atención y respetando la preferencia",
+   "El semáforo va a ponerse verde"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "La amarilla intermitente obliga a extremar la precaución y, en su caso, ceder el paso; no obliga a detenerse.",
+   "en": "Flashing amber means take extra care and give way if needed; it does not require stopping."
+  },
+  "article": "RGC art. 146",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q024",
+  "topic": "señales",
+  "question": "Una línea longitudinal continua en el centro de la calzada significa que...",
+  "options": [
+   "Se puede pisar para adelantar",
+   "Ningún conductor debe atravesarla ni circular sobre ella",
+   "Solo la pueden cruzar las motos"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "La marca longitudinal continua no puede ser atravesada ni pisada por ningún vehículo.",
+   "en": "A solid longitudinal line must not be crossed or straddled by any vehicle."
+  },
+  "article": "RGC art. 167",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q025",
+  "topic": "señales",
+  "question": "Las marcas viales de color amarillo en zig-zag indican...",
+  "options": [
+   "Zona de carga y descarga libre",
+   "Lugar donde está prohibido estacionar, por ejemplo una parada de bus",
+   "Zona de adelantamiento"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "La línea en zig-zag amarilla indica que está prohibido estacionar en ese lugar.",
+   "en": "A yellow zig-zag line means parking is prohibited there."
+  },
+  "article": "RGC art. 171",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q026",
+  "topic": "adelantamiento",
+  "question": "¿Por qué lado se adelanta como norma general?",
+  "options": [
+   "Por la derecha",
+   "Por la izquierda",
+   "Por cualquiera"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Como norma general, el adelantamiento se efectúa por la izquierda del vehículo adelantado.",
+   "en": "As a general rule, overtaking is done on the left of the vehicle being overtaken."
+  },
+  "article": "RGC art. 82",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q027",
+  "topic": "adelantamiento",
+  "question": "¿Cuándo se puede adelantar por la derecha?",
+  "options": [
+   "Nunca",
+   "Cuando el vehículo de delante indica que va a girar a la izquierda y se ha desplazado para ello",
+   "Siempre que haya espacio"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Se adelanta por la derecha cuando el conductor de delante ha indicado claramente que va a girar a la izquierda o parar en ese lado.",
+   "en": "You may overtake on the right when the driver ahead has clearly signalled a left turn or stop on that side."
+  },
+  "article": "RGC art. 82",
+  "trap": true,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q028",
+  "topic": "adelantamiento",
+  "question": "Al ser adelantado, usted debe...",
+  "options": [
+   "Acelerar para no quedarse atrás",
+   "No aumentar la velocidad y ceñirse a la derecha",
+   "Frenar bruscamente"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "El conductor que es adelantado no debe aumentar la velocidad ni hacer maniobras que impidan o dificulten el adelantamiento.",
+   "en": "A driver being overtaken must not speed up or do anything to hinder the overtaking."
+  },
+  "article": "RGC art. 86",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q029",
+  "topic": "adelantamiento",
+  "question": "¿Está permitido adelantar en un paso para peatones señalizado?",
+  "options": [
+   "Sí, si no hay peatones",
+   "No, está prohibido",
+   "Solo a bicicletas"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Está prohibido adelantar en los pasos para peatones señalizados.",
+   "en": "Overtaking at marked pedestrian crossings is prohibited."
+  },
+  "article": "RGC art. 87",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q030",
+  "topic": "adelantamiento",
+  "question": "Para adelantar a un ciclista en una carretera convencional, la separación lateral mínima es...",
+  "options": [
+   "1 metro",
+   "1,5 metros",
+   "0,5 metros"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Al adelantar a ciclistas se debe dejar una separación lateral mínima de 1,5 m, y en vías con más de un carril por sentido cambiar completamente de carril.",
+   "en": "When overtaking cyclists you must leave at least 1.5 m lateral clearance, and fully change lanes on roads with more than one lane per direction."
+  },
+  "article": "RGC art. 85",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q031",
+  "topic": "adelantamiento",
+  "question": "¿Se puede adelantar a un ciclista aunque haya línea continua?",
+  "options": [
+   "Nunca",
+   "Sí, si no hay peligro y se respeta la separación, aunque haya que invadir el sentido contrario",
+   "Solo en autopista"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Se permite adelantar a ciclistas invadiendo el sentido contrario incluso con línea continua, siempre que se pueda hacer sin peligro.",
+   "en": "You may overtake cyclists by crossing into the opposite lane even over a solid line, provided it can be done safely."
+  },
+  "article": "RGC art. 88",
+  "trap": true,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q032",
+  "topic": "distancia",
+  "question": "¿Qué es la distancia de seguridad?",
+  "options": [
+   "La distancia que permite detenerse sin chocar si frena el de delante",
+   "La distancia que hay entre dos señales",
+   "Siempre 10 metros"
+  ],
+  "answer": 0,
+  "explanation": {
+   "es": "Se debe dejar un espacio libre que permita detenerse en caso de frenada brusca del vehículo precedente.",
+   "en": "You must leave enough space to stop if the vehicle in front brakes suddenly."
+  },
+  "article": "RGC art. 54",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q033",
+  "topic": "distancia",
+  "question": "Con lluvia, la distancia de seguridad debe...",
+  "options": [
+   "Ser la misma",
+   "Aumentar",
+   "Reducirse para ver mejor"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Con calzada mojada la distancia de frenado aumenta; la distancia de seguridad debe ser mayor.",
+   "en": "On a wet road braking distance increases, so keep a larger safety gap."
+  },
+  "article": "RGC art. 54; Manual del conductor",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q034",
+  "topic": "maniobras",
+  "question": "¿Cuál es la distancia máxima que se puede recorrer marcha atrás?",
+  "options": [
+   "15 metros",
+   "50 metros",
+   "Sin límite"
+  ],
+  "answer": 0,
+  "explanation": {
+   "es": "La marcha atrás está limitada a un recorrido no superior a 15 metros ni invadir un cruce de vías.",
+   "en": "Reversing is limited to no more than 15 metres and must not invade a junction."
+  },
+  "article": "RGC art. 81",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q035",
+  "topic": "maniobras",
+  "question": "¿Se puede circular marcha atrás en una autovía si se ha pasado la salida?",
+  "options": [
+   "Sí, por el arcén",
+   "No, está prohibido",
+   "Sí, con las luces de emergencia"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "En autopistas y autovías está prohibido circular marcha atrás.",
+   "en": "Reversing on motorways and dual carriageways is prohibited."
+  },
+  "article": "RGC art. 80",
+  "trap": true,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q036",
+  "topic": "maniobras",
+  "question": "Antes de cambiar de carril, usted debe...",
+  "options": [
+   "Señalizarlo con antelación y comprobar que no hay peligro",
+   "Cambiar rápido para no molestar",
+   "Tocar el claxon"
+  ],
+  "answer": 0,
+  "explanation": {
+   "es": "Todo desplazamiento lateral debe advertirse con suficiente antelación y realizarse sin peligro para otros usuarios.",
+   "en": "Every lateral move must be signalled well in advance and done without endangering others."
+  },
+  "article": "RGC art. 74; art. 109",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q037",
+  "topic": "maniobras",
+  "question": "Para girar a la derecha, como norma general se debe...",
+  "options": [
+   "Ceñirse al borde derecho de la calzada",
+   "Situarse en el centro",
+   "Abrirse a la izquierda"
+  ],
+  "answer": 0,
+  "explanation": {
+   "es": "Para girar a la derecha hay que ceñirse lo más posible al borde derecho de la calzada.",
+   "en": "To turn right keep as close as possible to the right-hand edge of the road."
+  },
+  "article": "RGC art. 75",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q038",
+  "topic": "estacionamiento",
+  "question": "¿Está permitido estacionar en doble fila?",
+  "options": [
+   "Sí, con las luces de emergencia",
+   "No, está prohibido",
+   "Sí, durante menos de dos minutos"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Está prohibido estacionar en doble fila. Las luces de emergencia no lo legalizan.",
+   "en": "Double parking is prohibited. Hazard lights don't make it legal."
+  },
+  "article": "RGC art. 94",
+  "trap": true,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q039",
+  "topic": "estacionamiento",
+  "question": "¿Qué diferencia hay entre parar y estacionar?",
+  "options": [
+   "Ninguna",
+   "Parar es una inmovilización de no más de dos minutos sin abandonar el conductor el vehículo",
+   "Parar es siempre más de 5 minutos"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "La parada es una inmovilización de no más de dos minutos sin que el conductor abandone el vehículo; si se supera, es estacionamiento.",
+   "en": "Stopping is no more than two minutes without the driver leaving the vehicle; beyond that, it is parking."
+  },
+  "article": "RGC art. 90; Anexo I",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q040",
+  "topic": "alumbrado",
+  "question": "¿Cuándo es obligatorio usar el alumbrado de cruce en un túnel?",
+  "options": [
+   "Solo si está oscuro",
+   "Siempre, aunque esté iluminado",
+   "Nunca"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "En túneles y pasos inferiores es obligatorio el alumbrado de cruce aunque estén suficientemente iluminados.",
+   "en": "Dipped headlights are mandatory in tunnels and underpasses even when lit."
+  },
+  "article": "RGC art. 104",
+  "trap": true,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q041",
+  "topic": "alumbrado",
+  "question": "Las luces de carretera (largas) deben cambiarse a cruce cuando...",
+  "options": [
+   "Se cruza con otro vehículo que pueda deslumbrarse",
+   "Se llega a una autopista",
+   "Llueve un poco"
+  ],
+  "answer": 0,
+  "explanation": {
+   "es": "Se debe sustituir el alumbrado de carretera por el de cruce cuando pueda deslumbrar a otros usuarios.",
+   "en": "High beams must be switched to dipped when they could dazzle other road users."
+  },
+  "article": "RGC art. 100",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q042",
+  "topic": "seguridad",
+  "question": "¿Es obligatorio el cinturón de seguridad en los asientos traseros?",
+  "options": [
+   "No, solo delante",
+   "Sí, en todos los asientos que lo tengan",
+   "Solo en carretera"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "El cinturón es obligatorio para conductor y pasajeros en todos los asientos equipados, en ciudad y en carretera.",
+   "en": "Seat belts are mandatory for driver and passengers in all fitted seats, in town and on the road."
+  },
+  "article": "RGC art. 117",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q043",
+  "topic": "seguridad",
+  "question": "Un niño de 1,30 m de altura debe viajar...",
+  "options": [
+   "Con un sistema de retención infantil adecuado",
+   "Con el cinturón normal",
+   "En brazos de un adulto"
+  ],
+  "answer": 0,
+  "explanation": {
+   "es": "Los menores de estatura igual o inferior a 135 cm deben usar un sistema de retención infantil homologado adaptado a su talla y peso.",
+   "en": "Children 135 cm tall or under must use an approved child restraint suited to their height and weight."
+  },
+  "article": "RGC art. 117",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q044",
+  "topic": "seguridad",
+  "question": "El casco en motocicleta es obligatorio...",
+  "options": [
+   "Solo en carretera",
+   "Para conductor y pasajero, en cualquier vía",
+   "Solo para el conductor"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "El casco homologado es obligatorio para conductores y pasajeros de motocicletas en todo tipo de vías.",
+   "en": "An approved helmet is mandatory for motorcycle riders and passengers on all roads."
+  },
+  "article": "RGC art. 118",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q045",
+  "topic": "distracciones",
+  "question": "¿Se puede usar el móvil sujetándolo con la mano mientras se está detenido en un semáforo?",
+  "options": [
+   "Sí, porque el coche está parado",
+   "No, sigue estando conduciendo",
+   "Sí, si es una llamada corta"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Detenido en un semáforo o atasco se sigue circulando; está prohibido usar el móvil con la mano.",
+   "en": "Waiting at a light or in traffic still counts as driving; handheld phone use is prohibited."
+  },
+  "article": "RGC art. 18",
+  "trap": true,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q046",
+  "topic": "distracciones",
+  "question": "¿Está permitido conducir con auriculares conectados a un reproductor?",
+  "options": [
+   "Sí, a volumen bajo",
+   "No, está prohibido",
+   "Solo uno"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Está prohibido conducir utilizando cascos o auriculares conectados a aparatos receptores o reproductores de sonido.",
+   "en": "Driving with headphones or earphones connected to sound devices is prohibited."
+  },
+  "article": "RGC art. 18",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q047",
+  "topic": "peatones",
+  "question": "En un paso para peatones sin semáforo, si un peatón empieza a cruzar, usted...",
+  "options": [
+   "Pasa si llega antes",
+   "Debe dejarle pasar",
+   "Toca el claxon"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Los conductores deben dejar pasar a los peatones que cruzan por un paso para peatones señalizado.",
+   "en": "Drivers must let pedestrians cross at a marked pedestrian crossing."
+  },
+  "article": "RGC art. 65",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q048",
+  "topic": "peatones",
+  "question": "Fuera de poblado, un peatón que circula por la calzada debe hacerlo...",
+  "options": [
+   "Por la derecha",
+   "Por la izquierda",
+   "Por el centro"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Fuera de poblado los peatones circulan por su izquierda, para ver de frente a los vehículos.",
+   "en": "Outside built-up areas pedestrians walk on the left, facing oncoming traffic."
+  },
+  "article": "RGC art. 122",
+  "trap": true,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q049",
+  "topic": "vias",
+  "question": "En una autovía con tres carriles por sentido, ¿por cuál se circula normalmente?",
+  "options": [
+   "Por el central",
+   "Por el de la derecha",
+   "Por el de la izquierda"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Se circula normalmente por el carril de la derecha; los demás se usan cuando lo aconseje la circulación o para adelantar.",
+   "en": "You normally drive in the right lane; others are used when traffic requires or for overtaking."
+  },
+  "article": "RGC art. 31",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q050",
+  "topic": "vias",
+  "question": "¿Puede un turismo circular por el arcén?",
+  "options": [
+   "Sí, si va lento",
+   "No, salvo emergencia o casos previstos",
+   "Sí, en atascos"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "El arcén no es para turismos; está reservado a peatones, ciclos y ciertos vehículos, salvo emergencia.",
+   "en": "The hard shoulder is not for cars; it is reserved for pedestrians, cycles and some vehicles, except emergencies."
+  },
+  "article": "RGC art. 36",
+  "trap": true,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q051",
+  "topic": "vias",
+  "question": "El uso de la bocina en poblado está...",
+  "options": [
+   "Permitido para saludar",
+   "Prohibido, salvo para evitar un accidente",
+   "Permitido de día"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "En poblado solo se puede usar la señal acústica para evitar un posible accidente.",
+   "en": "In built-up areas the horn may only be used to avoid a possible accident."
+  },
+  "article": "RGC art. 110",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ }
+]

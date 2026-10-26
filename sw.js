@@ -1,0 +1,5 @@
+const V="ty-v1";const FILES=["./","./index.html","./app/","./app/index.html","./creditos/","./manifest.webmanifest","./assets/style.css","./assets/app.js","./assets/i18n.js","./assets/icon-192.png","./assets/icon-512.png","./i18n/es.json","./i18n/en.json","./data/questions.json","./data/signs.json"
+,"./signs/p1.svg","./signs/p13a.svg","./signs/p15a.svg","./signs/p20.svg","./signs/p21.svg","./signs/p3.svg","./signs/p4.svg","./signs/r1.svg","./signs/r100.svg","./signs/r101.svg","./signs/r2.svg","./signs/r301.svg","./signs/r302.svg","./signs/r303.svg","./signs/r305.svg","./signs/r307.svg","./signs/r308.svg","./signs/s13.svg","./signs/s15a.svg","./signs/s28.svg"];
+self.addEventListener("install",e=>e.waitUntil(caches.open(V).then(c=>c.addAll(FILES)).then(()=>self.skipWaiting())));
+self.addEventListener("activate",e=>e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(x=>x!==V).map(x=>caches.delete(x)))).then(()=>self.clients.claim())));
+self.addEventListener("fetch",e=>{if(e.request.method!=="GET")return;e.respondWith(caches.match(e.request).then(r=>r||fetch(e.request)))});
