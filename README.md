@@ -5,7 +5,7 @@ Free, mobile-first PWA to practise the Spanish driving theory test (permiso B). 
 **No afiliado a la DGT / Not affiliated with the DGT.** Questions are original, written from the Reglamento General de Circulación (RD 1428/2003) and the public driver manual; each cites its article. They are not official questions.
 
 ## Layout
-- `index.html` landing · `app/` PWA · `creditos/` sign credits
+- `index.html` landing · `app/` PWA · `creditos/` sign credits · `sobre/` about · `senales/` signs guide (from signs.json) · `blog/` articles · `sitemap.xml`, `robots.txt`
 - `data/questions.json` (id, topic, question, options[3], answer index, explanation{es,en}, article, trap)
 - `data/signs.json` + `signs/*.svg` (Wikimedia Commons, public domain only, licence checked per file)
 - `i18n/<lang>.json` UI strings; `assets/i18n.js` lists languages. To add AR/RO/UK/ZH: add the JSON (`"dir":"rtl"` for ar), add to `LANGS`, add `explanation.<lang>` and `name.<lang>`; missing keys fall back to ES. Question text stays in Spanish.
