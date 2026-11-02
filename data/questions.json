@@ -916,5 +916,437 @@
   "article": "RGC art. 110",
   "trap": false,
   "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q052",
+  "topic": "señales",
+  "question": "Un agente de tráfico levanta el brazo verticalmente. ¿Qué significa?",
+  "options": [
+   "Que puede pasar con precaución",
+   "Que deben detenerse todos los que se acercan al agente",
+   "Que debe acelerar para despejar el cruce"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Brazo levantado en vertical: alto para todos los que se acercan al agente, salvo quien no pueda detenerse con seguridad.",
+   "en": "Arm raised vertically: everyone approaching the officer must stop, unless they cannot do so safely."
+  },
+  "article": "RGC art. 143",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q053",
+  "topic": "glorietas",
+  "question": "Al llegar a una glorieta hay una señal de ceda el paso (R-1). ¿Qué debe hacer?",
+  "options": [
+   "Detenerse siempre, aunque no venga nadie",
+   "Ceder el paso a quien ya circula por la glorieta y detenerse solo si es necesario",
+   "Entrar sin mirar, porque viene por la derecha"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "La R-1 obliga a ceder el paso, no a detenerse siempre; dentro de la glorieta tienen preferencia quienes ya circulan por ella.",
+   "en": "R-1 means give way, not always stop; vehicles already on the roundabout have priority."
+  },
+  "article": "RGC art. 151; art. 57.1.c",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q054",
+  "topic": "glorietas",
+  "question": "La señal triangular P-4 (flechas en círculo) indica...",
+  "options": [
+   "Que usted tiene prioridad en la glorieta",
+   "Peligro por la proximidad de una intersección con circulación giratoria",
+   "Que está prohibido girar"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "La P-4 es una señal de peligro: avisa de que se acerca una glorieta, pero no concede prioridad.",
+   "en": "P-4 is a warning sign: it announces a roundabout ahead but gives no priority."
+  },
+  "article": "RGC art. 149",
+  "trap": true,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q055",
+  "topic": "glorietas",
+  "question": "La glorieta está atascada. Usted tiene preferencia, pero si entra se quedará parado bloqueándola. ¿Qué hace?",
+  "options": [
+   "Entro, porque tengo preferencia",
+   "No entro hasta poder avanzar sin quedarme detenido dentro",
+   "Entro con las luces de emergencia"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Aunque tenga preferencia, no debe entrar en una intersección si previsiblemente va a quedar detenido obstruyendo la circulación.",
+   "en": "Even with priority, do not enter a junction if you are likely to get stuck blocking traffic."
+  },
+  "article": "RGC art. 59",
+  "trap": true,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q056",
+  "topic": "glorietas",
+  "question": "Para salir de una glorieta con varios carriles, como norma general usted debe...",
+  "options": [
+   "Salir desde el carril en el que esté, aunque sea el interior",
+   "Pasar con antelación al carril exterior y señalizar con el intermitente derecho",
+   "Salir sin señalizar si no hay nadie detrás"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "La salida se hace desde el carril exterior; los desplazamientos laterales y la salida se advierten con el intermitente con antelación.",
+   "en": "Exit from the outer lane; signal lane changes and the exit in good time with the indicator."
+  },
+  "article": "RGC arts. 74 y 109; Manual del conductor",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q057",
+  "topic": "glorietas",
+  "question": "¿Se puede parar dentro de una glorieta para dejar a un pasajero?",
+  "options": [
+   "Sí, si es menos de dos minutos",
+   "No, está prohibido parar en las intersecciones y sus proximidades",
+   "Sí, con las luces de emergencia"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Una glorieta es una intersección, y en las intersecciones y sus proximidades está prohibido parar.",
+   "en": "A roundabout is a junction, and stopping in or near junctions is prohibited."
+  },
+  "article": "RGC art. 94",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q058",
+  "topic": "alumbrado",
+  "question": "De noche, fuera de poblado y en una vía mal iluminada, la luz de carretera (largas) es obligatoria si circula a más de...",
+  "options": [
+   "40 km/h",
+   "60 km/h",
+   "90 km/h"
+  ],
+  "answer": 0,
+  "explanation": {
+   "es": "La luz de largo alcance es obligatoria de noche, fuera de poblado, en vías insuficientemente iluminadas y a más de 40 km/h, salvo que deslumbre.",
+   "en": "High beam is mandatory at night, outside built-up areas, on poorly lit roads above 40 km/h, unless it would dazzle."
+  },
+  "article": "RGC art. 100",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q059",
+  "topic": "alumbrado",
+  "question": "Está lloviendo de forma normal, no intensa. ¿Debe encender la luz antiniebla trasera?",
+  "options": [
+   "Sí, siempre que llueva",
+   "No, solo con condiciones especialmente desfavorables",
+   "Sí, si es de noche"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "La antiniebla trasera solo se usa con condiciones especialmente desfavorables: niebla espesa, lluvia muy intensa, fuerte nevada o polvo o humo densos.",
+   "en": "The rear fog light is only for especially poor conditions: thick fog, very heavy rain, heavy snow, dense dust or smoke."
+  },
+  "article": "RGC art. 106",
+  "trap": true,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q060",
+  "topic": "alumbrado",
+  "question": "Durante el día, una motocicleta debe llevar encendida...",
+  "options": [
+   "Ninguna luz",
+   "La luz de cruce, en cualquier vía",
+   "La luz de cruce solo en autopista y autovía"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Las motocicletas deben llevar la luz de cruce encendida también de día, en cualquier vía.",
+   "en": "Motorcycles must use dipped headlights during the day too, on every road."
+  },
+  "article": "RGC art. 104",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q061",
+  "topic": "alumbrado",
+  "question": "Le deslumbra un vehículo que viene de frente. ¿Qué debe hacer?",
+  "options": [
+   "Poner las largas para avisarle",
+   "Reducir la velocidad lo necesario, incluso hasta detenerse",
+   "Mantener la velocidad y mirar al centro de la calzada"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Quien sufre un deslumbramiento debe reducir la velocidad lo necesario, incluso hasta detenerse, para no alcanzar a quien va delante.",
+   "en": "If dazzled, slow down as much as needed, even stop, to avoid hitting anyone ahead."
+  },
+  "article": "RGC art. 102",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q062",
+  "topic": "permiso",
+  "question": "¿Durante cuánto tiempo se aplica a un conductor novel la tasa de alcohol reducida?",
+  "options": [
+   "Durante el primer año",
+   "Durante los dos años siguientes a obtener el permiso",
+   "Hasta cumplir 25 años"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "La tasa reducida (0,15 mg/l en aire) se aplica durante los dos años siguientes a obtener el permiso que habilita para conducir.",
+   "en": "The lower limit (0.15 mg/l breath) applies for the two years after obtaining the licence."
+  },
+  "article": "RGC art. 20",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q063",
+  "topic": "permiso",
+  "question": "Un agente le pide que se someta a una prueba de detección de drogas. ¿Está obligado?",
+  "options": [
+   "No, solo a la de alcohol",
+   "Sí, los conductores están obligados a someterse a esas pruebas",
+   "Solo si ha tenido un accidente"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Los conductores están obligados a someterse a las pruebas de detección de estupefacientes que les pidan los agentes.",
+   "en": "Drivers must take drug tests when requested by officers."
+  },
+  "article": "RGC art. 28",
+  "trap": true,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q064",
+  "topic": "permiso",
+  "question": "Si un conductor da positivo en la prueba de alcohol, el agente...",
+  "options": [
+   "Le deja seguir si promete ir despacio",
+   "Puede inmovilizar el vehículo, salvo que otro conductor habilitado se haga cargo",
+   "No puede hacer nada en ese momento"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Con resultado positivo, el agente inmoviliza el vehículo, salvo que pueda conducirlo otra persona debidamente habilitada.",
+   "en": "After a positive test the officer immobilises the vehicle unless another qualified person can drive it."
+  },
+  "article": "RGC art. 25",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q065",
+  "topic": "permiso",
+  "question": "Tras un accidente, otro conductor implicado le pide su identidad. ¿Qué debe hacer?",
+  "options": [
+   "Dársela, es una obligación",
+   "Negarse hasta que lleguen los agentes",
+   "Dársela solo si hay heridos"
+  ],
+  "answer": 0,
+  "explanation": {
+   "es": "Todo implicado en un accidente debe comunicar su identidad a las otras personas implicadas si se la piden.",
+   "en": "Anyone involved in an accident must give their identity to the others involved if asked."
+  },
+  "article": "RGC art. 129.2.f",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q066",
+  "topic": "permiso",
+  "question": "Golpea un coche aparcado y su dueño no está. Solo hay daños materiales. ¿Qué debe hacer?",
+  "options": [
+   "Irse, porque no hay heridos",
+   "Hacerle llegar su nombre y dirección, directamente o a través de los agentes",
+   "Esperar allí hasta que vuelva el dueño, sin excepción"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Si alguna parte afectada no está presente, hay que facilitarle cuanto antes nombre y dirección, directamente o por medio de los agentes.",
+   "en": "If an affected party is absent, get your name and address to them as soon as possible, directly or via officers."
+  },
+  "article": "RGC art. 129.2.f",
+  "trap": true,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q067",
+  "topic": "seguridad",
+  "question": "¿En qué caso puede el conductor no llevar abrochado el cinturón?",
+  "options": [
+   "En ciudad, a menos de 50 km/h",
+   "Mientras hace marcha atrás o estaciona",
+   "En trayectos cortos"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "El conductor está exento del cinturón solo mientras realiza la maniobra de marcha atrás o de estacionamiento.",
+   "en": "The driver is exempt only while reversing or parking."
+  },
+  "article": "RGC art. 119",
+  "trap": true,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q068",
+  "topic": "seguridad",
+  "question": "¿Se puede llevar una silla infantil orientada hacia atrás en el asiento delantero?",
+  "options": [
+   "Sí, siempre",
+   "Solo si el airbag frontal de ese asiento está desactivado",
+   "No, nunca"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Está prohibido un sistema de retención infantil orientado hacia atrás en un asiento con airbag frontal, salvo que el airbag esté desactivado.",
+   "en": "A rear-facing child seat is not allowed in a seat with a frontal airbag unless the airbag is deactivated."
+  },
+  "article": "RGC art. 117",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q069",
+  "topic": "seguridad",
+  "question": "Como norma general, un menor de 135 cm o menos de estatura debe viajar...",
+  "options": [
+   "En el asiento delantero, para vigilarlo",
+   "En los asientos traseros, con un sistema de retención infantil",
+   "Donde quiera, si lleva cinturón"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Deben ir detrás con un sistema de retención adaptado; solo hay excepciones si no hay asientos traseros, están ocupados por otros menores o no caben las sillas.",
+   "en": "They must sit in the back with a suitable child seat; exceptions only if there are no rear seats, they are taken by other children, or seats do not fit."
+  },
+  "article": "RGC art. 117",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q070",
+  "topic": "accidentes",
+  "question": "Usted presencia un accidente, pero no está implicado. ¿Tiene alguna obligación?",
+  "options": [
+   "No, solo los implicados",
+   "Sí, auxiliar o pedir auxilio para las víctimas y colaborar para evitar más peligros",
+   "Solo si es médico"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Quien se vea implicado, presencie o conozca un accidente debe auxiliar o pedir auxilio para las víctimas y colaborar para evitar mayores peligros.",
+   "en": "Anyone involved in, witnessing or aware of an accident must help or call for help and help prevent further danger."
+  },
+  "article": "RGC art. 129.1",
+  "trap": true,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q071",
+  "topic": "accidentes",
+  "question": "Se detiene para ayudar en un accidente. ¿Qué es lo primero?",
+  "options": [
+   "Detenerse sin crear un nuevo peligro y señalizar para avisar a los demás",
+   "Mover los vehículos implicados",
+   "Hacer fotos para el seguro"
+  ],
+  "answer": 0,
+  "explanation": {
+   "es": "Primero hay que detenerse sin crear un nuevo peligro y hacer señales para advertir del peligro a los demás usuarios.",
+   "en": "First stop without creating new danger and warn other road users."
+  },
+  "article": "RGC art. 129.2.a y b",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q072",
+  "topic": "accidentes",
+  "question": "Sale de su turismo y ocupa el arcén de una carretera interurbana. ¿Qué debe ponerse?",
+  "options": [
+   "Nada",
+   "Un chaleco reflectante de alta visibilidad",
+   "El casco"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Al salir del vehículo y ocupar la calzada o el arcén de una vía interurbana hay que usar un chaleco reflectante de alta visibilidad.",
+   "en": "When leaving the vehicle onto the carriageway or hard shoulder of an interurban road, wear a high-visibility vest."
+  },
+  "article": "RGC art. 118.3",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q073",
+  "topic": "accidentes",
+  "question": "Según el Reglamento, con los heridos de un accidente usted debe...",
+  "options": [
+   "Llevarlos siempre en su coche al hospital",
+   "Prestarles el auxilio más adecuado según las circunstancias y pedir ayuda sanitaria",
+   "No hacer nada hasta que llegue la policía"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "El Reglamento pide prestar el auxilio más adecuado según las circunstancias y, sobre todo, pedir ayuda a los servicios sanitarios.",
+   "en": "The Regulation requires giving the most suitable help for the circumstances and, above all, calling medical services."
+  },
+  "article": "RGC art. 129.2.c",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q074",
+  "topic": "accidentes",
+  "question": "Está implicado en un accidente con heridos. ¿Puede marcharse antes de que lleguen los agentes?",
+  "options": [
+   "Sí, si ha dejado su teléfono",
+   "No, debe avisarles y quedarse o volver, salvo que le autoricen o deba atender a heridos",
+   "Sí, si los heridos son leves"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Si hay heridos o muertos, hay que avisar a la autoridad y permanecer o volver al lugar hasta que lleguen, salvo autorización o para auxiliar o ser atendido.",
+   "en": "With injuries or deaths, notify the authorities and stay or return until they arrive, unless authorised or giving/receiving care."
+  },
+  "article": "RGC art. 129.2.d",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
+ },
+ {
+  "id": "q075",
+  "topic": "accidentes",
+  "question": "Tras un accidente, ¿se pueden mover los vehículos y borrar las huellas?",
+  "options": [
+   "Sí, para dejar la vía limpia",
+   "Se debe evitar, salvo que sea necesario para la seguridad de los heridos o de la circulación",
+   "Sí, si los implicados están de acuerdo"
+  ],
+  "answer": 1,
+  "explanation": {
+   "es": "Hay que evitar modificar el estado de las cosas y las huellas, salvo que perjudique la seguridad de los heridos o de la circulación.",
+   "en": "Avoid altering the scene or evidence unless needed for the safety of the injured or of traffic."
+  },
+  "article": "RGC art. 129.2.e",
+  "trap": false,
+  "source": "Original, redactada a partir del RD 1428/2003 (RGC) y el Manual del conductor"
  }
 ]
