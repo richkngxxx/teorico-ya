@@ -7,6 +7,7 @@ Free, mobile-first PWA to practise the Spanish driving theory test (permiso B). 
 ## Layout
 - `index.html` landing · `app/` PWA · `creditos/` sign credits · `sobre/` about · `senales/` signs guide (from signs.json) · `blog/` articles · `sitemap.xml`, `robots.txt`
 - `data/questions.json` (id, topic, question, options[3], answer index, explanation{es,en}, article, trap)
+- `data/lessons.json` "Aprende desde cero" path: ordered topics, lesson cards (one rule each, with `ref` to the RGC article), `more` blog links, and the question ids / sign ids used for each mini-quiz. New questions must also be added to a topic here to appear in a mini-quiz.
 - `data/signs.json` + `signs/*.svg` (Wikimedia Commons, public domain only, licence checked per file)
 - `i18n/<lang>.json` UI strings; `assets/i18n.js` lists languages. To add AR/RO/UK/ZH: add the JSON (`"dir":"rtl"` for ar), add to `LANGS`, add `explanation.<lang>` and `name.<lang>`; missing keys fall back to ES. Question text stays in Spanish.
 - `sw.js` offline cache (bump `V` when files change), `manifest.webmanifest`
