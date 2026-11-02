@@ -15,6 +15,6 @@ select{padding:.3rem;border-radius:6px}footer{padding:1rem;text-align:center;fon
 .num{flex:none;width:2.2rem;height:2.2rem;border-radius:50%;display:grid;place-items:center;font-weight:700;background:#e5e7eb;color:#5b6b66}
 .step.done .num{background:var(--ok);color:#fff}.step.open .num{background:var(--acc);color:#fff}.step.cur .step-in{border:2px solid var(--acc)}.step.locked .step-in{opacity:.6;box-shadow:none}
 .dots{display:flex;gap:.35rem;margin:.3rem 0 .6rem}.dots i{flex:1;height:5px;border-radius:3px;background:#d6dcd9}.dots i.on{background:var(--acc)}
-.lesson{font-size:1.15rem;padding:1.4rem 1.2rem}.lesson .imgs{display:flex;justify-content:center;gap:1rem;flex-wrap:wrap;margin-bottom:.5rem}.lesson .imgs img{width:96px;height:96px;object-fit:contain}
+.lesson{font-size:1.15rem;padding:1.4rem 1.2rem}.lesson .imgs{display:flex;justify-content:center;gap:.75rem;flex-wrap:wrap;margin-bottom:.5rem}.lesson .imgs img{width:80px;height:80px;object-fit:contain}
 .result{text-align:center}.result.pass{border-top:6px solid var(--ok)}.result.fail{border-top:6px solid var(--bad)}.ok-t{color:var(--ok)}.bad-t{color:var(--bad)}
 .exam-bar{display:flex;justify-content:space-between}
