@@ -1,0 +1,182 @@
+[
+ {
+  "id": "senales",
+  "title": "Señales",
+  "icon": "🚦",
+  "subtitle": "Verticales, horizontales, semáforos y agentes",
+  "questions": ["q017", "q018", "q021", "q022", "q023", "q024", "q025", "q052"],
+  "signs": ["R1", "R2", "R101", "R307", "R308", "P20", "S13"],
+  "cards": [
+   {"text": "La forma te dice el tipo de señal. Triángulo con borde rojo: peligro, solo avisa. Círculo con borde rojo: prohíbe. Cuadrado azul: informa.", "img": ["signs/p20.svg", "signs/r101.svg", "signs/s13.svg"], "ref": "RGC arts. 149-159"},
+   {"text": "STOP (R-2): detente siempre en la línea de detención, aunque no venga nadie, y después cede el paso.", "img": ["signs/r2.svg"], "ref": "RGC arts. 151 y 169"},
+   {"text": "Línea continua en el suelo: no la pises ni la cruces.", "ref": "RGC art. 167"},
+   {"text": "Semáforo en amarillo fijo: detente igual que en rojo, salvo que ya no puedas parar con seguridad.", "img": ["signs/p3.svg"], "ref": "RGC art. 146"},
+   {"text": "Manda siempre el agente. Orden de prioridad: agentes, señales circunstanciales, semáforos, señales verticales y, por último, marcas viales.", "ref": "RGC art. 133"},
+   {"text": "Agente con el brazo levantado en vertical: alto para todos los que se acercan a él.", "ref": "RGC art. 143"}
+  ],
+  "more": [
+   {"href": "../blog/senales-que-mas-se-fallan/", "title": "Señales de tráfico que más se fallan"},
+   {"href": "../senales/", "title": "Guía de señales"}
+  ]
+ },
+ {
+  "id": "prioridad",
+  "title": "Prioridad e intersecciones",
+  "icon": "↔️",
+  "subtitle": "Quién pasa primero en un cruce",
+  "questions": ["q014", "q016", "q019", "q020", "q037", "q047"],
+  "signs": ["R1", "P1"],
+  "cards": [
+   {"text": "Cruce sin señales: cede el paso a quien viene por tu derecha.", "ref": "RGC art. 57"},
+   {"text": "Ceda el paso (R-1): deja pasar a quien circula por la otra vía. Solo te detienes si hace falta.", "img": ["signs/r1.svg"], "ref": "RGC art. 151"},
+   {"text": "Excepción: quien va por una vía asfaltada tiene preferencia sobre quien sale de un camino de tierra.", "ref": "RGC art. 57.1.a"},
+   {"text": "Vehículo de emergencia con luces y sirena: apártate, normalmente a la derecha, sin crear peligro.", "ref": "RGC arts. 68 y 69"},
+   {"text": "Peatón cruzando por un paso de peatones: déjale pasar.", "img": ["signs/s13.svg"], "ref": "RGC art. 65"},
+   {"text": "Aunque tengas preferencia, no entres en un cruce si vas a quedarte parado dentro bloqueándolo.", "ref": "RGC art. 59"}
+  ],
+  "more": [
+   {"href": "../blog/senales-que-mas-se-fallan/", "title": "Ceda el paso y STOP: cómo distinguirlas"}
+  ]
+ },
+ {
+  "id": "glorietas",
+  "title": "Glorietas",
+  "icon": "🔄",
+  "subtitle": "Entrar, circular y salir de una rotonda",
+  "questions": ["q015", "q053", "q054", "q055", "q056", "q057"],
+  "signs": ["P4"],
+  "cards": [
+   {"text": "La señal P-4 solo avisa de que se acerca una glorieta. No te da prioridad.", "img": ["signs/p4.svg"], "ref": "RGC art. 149"},
+   {"text": "Quien ya circula dentro de la glorieta tiene preferencia sobre quien quiere entrar.", "img": ["signs/r1.svg"], "ref": "RGC art. 57.1.c"},
+   {"text": "Dentro, se circula dejando el centro a la izquierda: en sentido contrario a las agujas del reloj.", "ref": "Manual del conductor"},
+   {"text": "Para salir, pasa con antelación al carril exterior (el de la derecha) y pon el intermitente derecho.", "ref": "RGC arts. 74 y 109"},
+   {"text": "No pares ni estaciones dentro de una glorieta: es una intersección.", "ref": "RGC art. 94"}
+  ],
+  "more": [
+   {"href": "../blog/como-circular-glorietas/", "title": "Cómo circular por una glorieta"}
+  ]
+ },
+ {
+  "id": "velocidad",
+  "title": "Velocidad",
+  "icon": "⏱️",
+  "subtitle": "Límites y distancia de seguridad",
+  "questions": ["q001", "q002", "q003", "q004", "q005", "q006", "q007", "q008", "q032", "q033"],
+  "signs": ["R301"],
+  "cards": [
+   {"text": "Autopista y autovía: como máximo 120 km/h para turismos y motos.", "img": ["signs/r301.svg"], "ref": "RGC art. 48"},
+   {"text": "Carretera convencional: 90 km/h. Para adelantar tampoco puedes pasar de 90.", "ref": "RGC art. 48"},
+   {"text": "En ciudad: 50 km/h con dos o más carriles por sentido, 30 km/h con un carril por sentido y 20 km/h si calzada y acera están al mismo nivel.", "ref": "RGC art. 50"},
+   {"text": "El límite es un máximo. Con niebla, lluvia o mal firme, ve más despacio.", "ref": "RGC art. 45"},
+   {"text": "En autopista y autovía no vayas, sin motivo, por debajo de la mitad del límite genérico.", "ref": "RGC art. 49"},
+   {"text": "Deja distancia suficiente para frenar si frena el de delante. Con lluvia, deja más.", "ref": "RGC art. 54"}
+  ],
+  "more": [
+   {"href": "../blog/como-aprobar-examen-teorico/", "title": "Cómo aprobar el examen teórico (los números clave)"}
+  ]
+ },
+ {
+  "id": "adelantamientos",
+  "title": "Adelantamientos",
+  "icon": "🚗",
+  "subtitle": "Cómo, por dónde y dónde no adelantar",
+  "questions": ["q026", "q027", "q028", "q029", "q030", "q031"],
+  "signs": ["R305"],
+  "cards": [
+   {"text": "Se adelanta por la izquierda.", "ref": "RGC art. 82"},
+   {"text": "Por la derecha solo si el de delante ha indicado claramente que gira a la izquierda o que para en ese lado.", "ref": "RGC art. 82"},
+   {"text": "A un ciclista, déjale al menos 1,5 metros de separación lateral.", "ref": "RGC art. 85"},
+   {"text": "No adelantes con la señal R-305, con línea continua, en pasos de peatones ni en curvas o cambios de rasante sin visibilidad.", "img": ["signs/r305.svg"], "ref": "RGC art. 87"},
+   {"text": "Si te adelantan: cíñete a la derecha y no aceleres.", "ref": "RGC art. 86"}
+  ],
+  "more": [
+   {"href": "../blog/como-adelantar-correctamente/", "title": "Cómo adelantar correctamente"}
+  ]
+ },
+ {
+  "id": "luces",
+  "title": "Luces",
+  "icon": "💡",
+  "subtitle": "Cruce, carretera y antiniebla",
+  "questions": ["q040", "q041", "q058", "q059", "q060", "q061"],
+  "signs": [],
+  "cards": [
+   {"text": "De noche y en los túneles, luces encendidas siempre, aunque el túnel esté iluminado.", "ref": "RGC arts. 98 y 104"},
+   {"text": "Largas (luz de carretera): de noche, fuera de poblado, en vía mal iluminada y a más de 40 km/h.", "ref": "RGC art. 100"},
+   {"text": "Pon las cortas si puedes deslumbrar a alguien, aunque el otro no las quite.", "ref": "RGC art. 102"},
+   {"text": "Si te deslumbran, reduce la velocidad. Si hace falta, detente.", "ref": "RGC art. 102"},
+   {"text": "Antiniebla trasera: solo con niebla espesa, lluvia muy intensa, fuerte nevada o mucho humo o polvo. Con lluvia normal, no.", "ref": "RGC art. 106"},
+   {"text": "Las motos llevan la luz de cruce también de día, en cualquier vía.", "ref": "RGC art. 104"}
+  ],
+  "more": [
+   {"href": "../blog/luces-del-coche-cuando-usarlas/", "title": "Luces del coche: cuándo usar cada una"}
+  ]
+ },
+ {
+  "id": "alcohol",
+  "title": "Alcohol y drogas",
+  "icon": "🍷",
+  "subtitle": "Tasas y pruebas",
+  "questions": ["q009", "q010", "q011", "q012", "q013"],
+  "signs": [],
+  "cards": [
+   {"text": "Tasa máxima general: 0,25 mg/l en aire espirado (0,5 g/l en sangre).", "ref": "RGC art. 20"},
+   {"text": "Noveles (dos primeros años de permiso) y profesionales: 0,15 mg/l en aire (0,3 g/l en sangre).", "ref": "RGC art. 20"},
+   {"text": "El café o el agua fría no bajan la tasa de alcohol. Solo el tiempo la baja.", "ref": "Manual del conductor; RGC art. 20"},
+   {"text": "Si un agente te lo pide, tienes que hacer la prueba de alcohol.", "ref": "RGC art. 21"},
+   {"text": "Medicamento con el pictograma de conducción en la caja: lee el prospecto y consulta si puedes conducir.", "ref": "RGC art. 27"}
+  ],
+  "more": []
+ },
+ {
+  "id": "permiso",
+  "title": "Documentación y permiso",
+  "icon": "🪪",
+  "subtitle": "Tus obligaciones como conductor ante agentes y accidentes",
+  "questions": ["q062", "q063", "q064", "q065", "q066"],
+  "signs": [],
+  "cards": [
+   {"text": "Eres conductor novel durante los dos años siguientes a sacarte el permiso. Tu límite de alcohol es más bajo.", "ref": "RGC art. 20"},
+   {"text": "Si un agente te lo pide, tienes que hacer las pruebas de alcohol y de drogas.", "ref": "RGC arts. 21 y 28"},
+   {"text": "Si das positivo, el agente inmoviliza el vehículo, salvo que lo pueda conducir otra persona habilitada.", "ref": "RGC art. 25"},
+   {"text": "Después de un accidente, si los demás implicados te piden tu identidad, tienes que dársela.", "ref": "RGC art. 129.2.f"},
+   {"text": "Si solo hay daños y el dueño del otro vehículo no está, hazle llegar tu nombre y dirección, tú mismo o a través de los agentes.", "ref": "RGC art. 129.2.f"},
+   {"text": "Qué documentos hay que llevar en el coche no lo regula el RD 1428/2003, sino otras normas. Consúltalo en la web oficial de la DGT (dgt.es)."}
+  ],
+  "more": []
+ },
+ {
+  "id": "seguridad",
+  "title": "Seguridad pasiva",
+  "icon": "🦺",
+  "subtitle": "Cinturón, sillas infantiles y casco",
+  "questions": ["q042", "q043", "q044", "q067", "q068", "q069"],
+  "signs": [],
+  "cards": [
+   {"text": "Cinturón obligatorio en todos los asientos que lo tengan, delante y detrás, en ciudad y en carretera.", "ref": "RGC art. 117"},
+   {"text": "Menores de 135 cm o menos: sistema de retención infantil adaptado a su talla y peso.", "ref": "RGC art. 117"},
+   {"text": "Esos menores van detrás. Solo pueden ir delante si no hay asientos traseros, si van ocupados por otros menores o si no caben las sillas.", "ref": "RGC art. 117"},
+   {"text": "Nunca una silla mirando hacia atrás en un asiento con el airbag frontal activado.", "ref": "RGC art. 117"},
+   {"text": "Moto: casco homologado para conductor y pasajero, en cualquier vía.", "ref": "RGC art. 118"},
+   {"text": "El conductor solo puede quitarse el cinturón mientras hace marcha atrás o estaciona.", "ref": "RGC art. 119"}
+  ],
+  "more": []
+ },
+ {
+  "id": "auxilios",
+  "title": "Primeros auxilios",
+  "icon": "⛑️",
+  "subtitle": "Qué hacer ante un accidente",
+  "questions": ["q070", "q071", "q072", "q073", "q074", "q075"],
+  "signs": [],
+  "cards": [
+   {"text": "Si estás implicado, ves o conoces un accidente, tienes que ayudar o pedir ayuda para las víctimas.", "ref": "RGC art. 129.1"},
+   {"text": "Primero, detente donde no crees otro peligro y señaliza para avisar a los demás.", "ref": "RGC art. 129.2.a y b"},
+   {"text": "Si sales a la calzada o al arcén de una vía interurbana, ponte el chaleco reflectante.", "ref": "RGC art. 118.3"},
+   {"text": "Pide ayuda sanitaria. En España, el teléfono de emergencias es el 112.", "ref": "RGC art. 129.2.c"},
+   {"text": "Si hay heridos, avisa a los agentes y quédate (o vuelve) hasta que lleguen, salvo que te autoricen a irte.", "ref": "RGC art. 129.2.d"},
+   {"text": "Esta app solo explica lo que dice el Reglamento. No enseña técnicas sanitarias: para eso, haz un curso con profesionales."}
+  ],
+  "more": []
+ }
+]
