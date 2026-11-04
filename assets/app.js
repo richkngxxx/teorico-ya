@@ -13,10 +13,11 @@ function home(){view.innerHTML=`<p class="muted">${t("questions_note")}</p>
 function quiz(list,mode){let i=0,score=0;
   const show=()=>{if(i>=list.length){if(mode==="daily"){const p=store.get();p.daily[today()]=score;store.set(p)}
       view.innerHTML=`<div class="card"><h2>${t("score")}: ${score}/${list.length}</h2></div><a class="btn primary" href="#">${t("home")}</a>`;return}
-    const q=list[i];view.innerHTML=`<p class="muted">${i+1}/${list.length} · ${esc(q.topic)}${q.trap?" · ⚠️":""}</p><div class="card"><strong lang="es">${esc(q.question)}</strong></div>
-${q.options.map((o,k)=>`<button class="btn" lang="es" data-k="${k}">${"abc"[k]}) ${esc(o)}</button>`).join("")}<div id="fb"></div>`;
-    view.querySelectorAll("[data-k]").forEach(b=>b.onclick=()=>{const k=+b.dataset.k,ok=k===q.answer;if(ok)score++;record(q.topic,ok);
-      view.querySelectorAll("[data-k]").forEach(x=>{x.disabled=true;if(+x.dataset.k===q.answer)x.classList.add("ok")});if(!ok)b.classList.add("bad");
+    const q=list[i],order=shuffle(q.options.map((o,k)=>({o,k}))),ans=order.findIndex(x=>x.k===q.answer);
+    view.innerHTML=`<p class="muted">${i+1}/${list.length} · ${esc(q.topic)}${q.trap?" · ⚠️":""}</p><div class="card"><strong lang="es">${esc(q.question)}</strong></div>
+${order.map((x,k)=>`<button class="btn" lang="es" data-k="${k}">${"abc"[k]}) ${esc(x.o)}</button>`).join("")}<div id="fb"></div>`;
+    view.querySelectorAll("[data-k]").forEach(b=>b.onclick=()=>{const k=+b.dataset.k,ok=k===ans;if(ok)score++;record(q.topic,ok);
+      view.querySelectorAll("[data-k]").forEach(x=>{x.disabled=true;if(+x.dataset.k===ans)x.classList.add("ok")});if(!ok)b.classList.add("bad");
       $("#fb").innerHTML=`<div class="card"><strong>${ok?t("correct"):t("wrong")}</strong><p>${esc(pick(q.explanation))}</p><p class="muted">${t("article")}: ${esc(q.article)}</p></div><button class="btn primary" id="nx">${t("next")}</button>`;
       $("#nx").onclick=()=>{i++;show()}})};show()}
 function signs(){const list=shuffle(S);let i=0;
