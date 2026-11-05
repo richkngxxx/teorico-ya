@@ -14,4 +14,5 @@ export async function setLang(code){
 export const t=k=>dict[k]??fallback[k]??k;
 // explanation objects are {es,en,...}; pick current lang, fall back to es
 export const pick=o=>o[lang]??o.es;
-export const initialLang=()=>localStorage.getItem("ty_lang")||((navigator.language||"es").startsWith("es")?"es":"en");
+// Spanish-first: default to Spanish (the exam language) unless the learner picked another language.
+export const initialLang=()=>localStorage.getItem("ty_lang")||"es";
