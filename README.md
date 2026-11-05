@@ -2,6 +2,8 @@
 
 Free, mobile-first PWA to practise the Spanish driving theory test (permiso B). Static HTML/CSS/JS, no build, no accounts, no payments.
 
+**UI:** warm, playful design system in `assets/style.css` — chunky rounded 3D-press buttons, soft shadows, a learning-path home, and Duolingo-style lesson flow (pick → *Comprobar* → celebration/correction sheet → *Continuar*). Gamification is friendly, never blocking: daily goal (10 questions) with progress ring, day streak (🔥), hearts (❤️, refill daily, you can keep practising at 0), and XP/levels (⭐). Topic mastery bars are colour-coded on the progress screen, which also has a friendly empty state. Spanish-first: UI defaults to Spanish, English selectable; question text is always Spanish. Original design — not affiliated with the DGT, and not affiliated with Duolingo.
+
 **No afiliado a la DGT / Not affiliated with the DGT.** Questions are original, written from the Reglamento General de Circulación (RD 1428/2003) and the public driver manual; each cites its article. They are not official questions.
 
 ## Layout
